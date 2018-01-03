@@ -1,0 +1,135 @@
+body {
+	background-color: #1e1e1e;
+}
+
+a {
+	font-size: 24px;
+	color: #941305;
+}
+.flex-grid {
+  display: flex;
+}
+.col {
+  flex: 1;
+}
+
+#forms {
+	font-size: 21px;
+}
+
+#bod {
+	font-size: 21px;
+}
+
+#obits {
+	font-size: 21px;
+}
+
+.bg-1 {
+background-image: url(Pics/TOM_2387__3__4_tonemapped.jpeg);
+height: 100vh;
+background-size: cover;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.name {
+	font-size: 75px;
+	color: white;
+	text-shadow: 3px 3px #000000;
+	margin-top: 25px;
+}
+.bg-2 {
+	background-color: #e3e5e8;
+	color: black;
+	margin: 20px 0 20px 0;
+}
+.bg-3 {
+	background-color: #851104;
+	background-size: cover;
+	color: white;
+	margin-top: 20px;
+}
+.bg-4 {
+	background-color: #e3e5e8;
+	color: black;
+	margin-top: 20px;
+}
+.bg-5 {
+	background-color: #851104;
+	background-size: cover;
+	color: white;
+	margin-top: 20px;
+}
+.container-fluid {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	font-size: 12px;
+	letter-spacing: 5px;
+	position: fixed;
+	width: 100%;
+}
+
+.navbar-default .navbar-brand {
+	color: #1e1e1e;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #1e1e1e;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 15px;
+}
+.navbar-nav li a:hover {
+	color: #941305 !important;
+}
+.navbar-default .navbar-brand:hover {
+	color: #941305;
+}
+.margin {
+	font-family: 'Cinzel', serif;
+	color: black;
+	font-size: 35px;
+}
+.boot {
+	font-size: 18px;
+}
+#what {
+  back
+}
+
+.what {
+	margin-bottom: 45px;
+	font-size: 23px;
+	font-family: 'Quattrocento Sans', sans-serif;
+	letter-spacing: 2px;
+	color: #191919;
+}
+#home {
+  height: 700px;
+}
+.who {
+
+	font-family: 'Quattrocento Sans', sans-serif;
+	letter-spacing: 4px;
+}
+
+.foot {
+	margin-top: 20px;
+	color: black;
+	background-color: white;
+	font-size: 21px;
+}
+
+.pen {
+	color: black;
+	font-weight: bolder;
+}
