@@ -137,3 +137,8 @@ align-items: center;
 #ffms {
 	color: white;
 }
+
+#obitName {
+	text-decoration: none;
+	color: black;
+}
