@@ -142,3 +142,16 @@ align-items: center;
 	text-decoration: none;
 	color: black;
 }
+
+.top {
+	color: black;
+}
+
+.middle {
+	margin-bottom: 35px;
+	color: black;
+}
+
+.bottom {
+	color: black;
+}
