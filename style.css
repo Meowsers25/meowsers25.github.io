@@ -79,6 +79,7 @@ align-items: center;
 	letter-spacing: 5px;
 	position: fixed;
 	width: 100%;
+	z-index: 1;
 }
 
 .navbar-default .navbar-brand {
@@ -142,5 +143,18 @@ align-items: center;
 
 #obitName {
 	text-decoration: none;
+	color: black;
+}
+
+.top {
+	color: black;
+}
+
+.middle {
+	margin-bottom: 35px;
+	color: black;
+}
+
+.bottom {
 	color: black;
 }
