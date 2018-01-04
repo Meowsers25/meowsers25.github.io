@@ -29,7 +29,8 @@ a {
 background-image: url(Pics/TOM_2387__3__4_tonemapped.jpeg);
 height: 100vh;
 background-size: cover;
-
+background-repeat: no-repeat;
+background-position: center;
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -114,7 +115,7 @@ align-items: center;
 	font-family: 'Quattrocento Sans', sans-serif;
 	letter-spacing: 2px;
 	color: #191919;
-	
+
 }
 #home {
   /* height: 700px; */
