@@ -46,7 +46,7 @@ align-items: center;
 }
 
 @media (max-width: 479px) {
-    .name{font-size: 35px;}
+    .name{font-size: 55px;}
 }
 
 @media (min-width: 480px) {
