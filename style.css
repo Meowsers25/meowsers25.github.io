@@ -170,3 +170,15 @@ align-items: center;
 .bottom {
 	color: black;
 }
+
+h3{
+	/* margin-bottom: 45px; */
+	font-size: 23px;
+	font-family: 'Quattrocento Sans', sans-serif;
+	letter-spacing: 2px;
+	color: #191919;
+}
+
+hr{
+	border-color: lightslategray;
+}
