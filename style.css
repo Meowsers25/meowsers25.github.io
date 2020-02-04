@@ -1,10 +1,10 @@
 body {
-	background-color: #1e1e1e;
+  background-color: #1e1e1e;
 }
 
 a {
-	font-size: 24px;
-	color: #851104;
+  font-size: 24px;
+  color: #851104;
 }
 .flex-grid {
   display: flex;
@@ -14,171 +14,170 @@ a {
 }
 
 #forms {
-	font-size: 21px;
+  font-size: 21px;
 }
 
 #bod {
-	font-size: 21px;
+  font-size: 21px;
 }
 
 #obits {
-	font-size: 21px;
+  font-size: 21px;
 }
 
 .bg-1 {
-background-image: url(Pics/TOM_2387__3__4_tonemapped.jpeg);
-height: 100vh;
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-/* background-attachment: fixed; */
+  background-image: url(Pics/TOM_2387__3__4_tonemapped.jpeg);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-attachment: fixed; */
 }
 
 .name {
-	font-size: 75px;
-	color: white;
-	text-shadow: 3px 3px #000000;
-	margin-top: 25px;
+  font-size: 75px;
+  color: white;
+  text-shadow: 3px 3px #000000;
+  margin-top: 25px;
 }
 
 @media (max-width: 479px) {
-    .name{font-size: 55px;}
+  .name {
+    font-size: 55px;
+  }
 }
 
 @media (min-width: 480px) {
-    .name{font-size: 75px;}
+  .name {
+    font-size: 75px;
+  }
 }
-
 
 .bg-2 {
-	background-color: #e3e5e8;
-	color: black;
-	margin: 20px 0 20px 0;
+  background-color: #e3e5e8;
+  color: black;
+  margin: 20px 0 20px 0;
 }
 .bg-3 {
-	background-color: #851104;
-	background-size: cover;
-	color: white;
-	margin-top: 20px;
+  background-color: #851104;
+  background-size: cover;
+  color: white;
+  margin-top: 20px;
 }
 .bg-4 {
-	background-color: #e3e5e8;
-	color: black;
-	margin-top: 20px;
+  background-color: #e3e5e8;
+  color: black;
+  margin-top: 20px;
 }
 .bg-5 {
-	background-color: #851104;
-	background-size: cover;
-	color: white;
-	margin-top: 20px;
-
+  background-color: #851104;
+  background-size: cover;
+  color: white;
+  margin-top: 20px;
 }
 .container-fluid {
-	padding-top: 70px;
-	padding-bottom: 70px;
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
 .navbar {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	border: 0;
-	border-radius: 0;
-	margin-bottom: 0;
-	font-size: 12px;
-	letter-spacing: 5px;
-	position: fixed;
-	width: 100%;
-	z-index: 1;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
 
 .navbar-default .navbar-brand {
-	color: #1e1e1e;
+  color: #1e1e1e;
 }
-.navbar-default .navbar-nav>li>a {
-	color: #1e1e1e;
-	font-family: 'Merriweather Sans', sans-serif;
-	font-size: 15px;
+.navbar-default .navbar-nav > li > a {
+  color: #1e1e1e;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 15px;
 }
 .navbar-nav li a:hover {
-	color: #941305 !important;
+  color: #941305 !important;
 }
 .navbar-default .navbar-brand:hover {
-	color: #941305;
+  color: #941305;
 }
 .margin {
-	font-family: 'Cinzel', serif;
-	color: black;
-	font-size: 35px;
+  font-family: 'Cinzel', serif;
+  color: black;
+  font-size: 35px;
 }
 .boot {
-	font-size: 18px;
+  font-size: 18px;
 }
 #what {
-  back
 }
 
 .what {
-	margin-bottom: 45px;
-	font-size: 23px;
-	font-family: 'Quattrocento Sans', sans-serif;
-	letter-spacing: 2px;
-	color: #191919;
-
+  margin-bottom: 45px;
+  font-size: 23px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  letter-spacing: 2px;
+  color: #191919;
 }
 #home {
   /* height: 700px; */
 }
 .who {
-
-	font-family: 'Quattrocento Sans', sans-serif;
-	letter-spacing: 4px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  letter-spacing: 4px;
 }
 
 .foot {
-	margin-top: 20px;
-	color: black;
-	background-color: white;
-	font-size: 21px;
+  margin-top: 20px;
+  color: black;
+  background-color: white;
+  font-size: 21px;
 }
 
 .pen {
-	color: black;
-	font-weight: bolder;
+  color: black;
+  font-weight: bolder;
 }
 
 #ffms {
-	color: white;
+  color: white;
 }
 
 #obitName {
-	text-decoration: none;
-	color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .top {
-	color: black;
+  color: black;
 }
 
 .middle {
-	margin-bottom: 35px;
-	color: black;
+  margin-bottom: 35px;
+  color: black;
 }
 
 .bottom {
-	color: black;
+  color: black;
 }
 
-h3{
-	/* margin-bottom: 45px; */
-	font-size: 23px;
-	font-family: 'Quattrocento Sans', sans-serif;
-	letter-spacing: 2px;
-	color: #191919;
+h3 {
+  /* margin-bottom: 45px; */
+  font-size: 23px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  letter-spacing: 2px;
+  color: #191919;
 }
 
-hr{
-	border-color: lightslategray;
+hr {
+  border-color: lightslategray;
 }
