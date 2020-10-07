@@ -6,6 +6,11 @@ a {
   font-size: 24px;
   color: #851104;
 }
+
+#presidentEmail {
+  color: black;
+}
+
 .flex-grid {
   display: flex;
 }
