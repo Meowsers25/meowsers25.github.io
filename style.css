@@ -7,18 +7,7 @@ a {
 	color: #851104;
 }
 
-.here{
-	color: white !important;
-	text-decoration: none !important;
-	letter-spacing: 2px;
 
-}
-.here:hover{
-	color: white;
-	text-decoration: none;
-	cursor: pointer;
-	font-size: 25px;
-}
 
 .flex-grid {
 	display: flex;
@@ -199,4 +188,17 @@ hr {
 
 .board {
 	color: #c5c5c5;
+}
+
+.here{
+	color: white !important;
+	text-decoration: none !important;
+	letter-spacing: 2px;
+
+}
+.here:hover{
+	color: white;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 25px;
 }
