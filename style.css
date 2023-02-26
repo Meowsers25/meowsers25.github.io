@@ -207,3 +207,27 @@ hr {
 	height: 300px;
 	width: 200px;
 }
+.program-link{
+	color: #c5c5c5;
+	text-decoration: none;
+	/* pointer-events: none; */
+}
+.program-link:hover{
+	color: #c5c5c5;
+	text-decoration: none;
+}
+.program-link:visited{
+	color: #c5c5c5;
+	text-decoration: none;
+}
+/* .program-link:visited {
+	text-decoration: none;
+}
+
+.program-link:hover {
+	text-decoration: none;
+}
+
+.program-link:active {
+	text-decoration: none;
+} */
