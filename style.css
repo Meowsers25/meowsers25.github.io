@@ -209,7 +209,7 @@ hr {
 }
 
 #programBtn{
-	color: black;
+	color: black !important;
 	background-color: #c5c5c5;
 	border: none;
 	border-radius: 5px;
