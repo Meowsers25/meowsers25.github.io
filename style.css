@@ -209,8 +209,8 @@ hr {
 }
 
 #programBtn{
-	color: black !important;
+	color: #c5c5c5;
 	background-color: #941305;
-	border: none;
+	border: 1.5px solid black;
 	border-radius: 5px;
 }
