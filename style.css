@@ -207,27 +207,10 @@ hr {
 	height: 300px;
 	width: 200px;
 }
-.program-link{
-	color: #c5c5c5;
-	text-decoration: none;
-	/* pointer-events: none; */
-}
-.program-link:hover{
-	color: #c5c5c5;
-	text-decoration: none;
-}
-.program-link:visited{
-	color: #c5c5c5;
-	text-decoration: none;
-}
-/* .program-link:visited {
-	text-decoration: none;
-}
 
-.program-link:hover {
-	text-decoration: none;
+#programBtn{
+	color: black;
+	background-color: #c5c5c5;
+	border: none;
+	border-radius: 5px;
 }
-
-.program-link:active {
-	text-decoration: none;
-} */

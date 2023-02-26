@@ -99,7 +99,7 @@
 	</br>
 	<p class="what">Welcome to the CPFRA website.</p>
 
-	<p class="what">To view the 2022 Firefighter Memorial Sunday program, please click <a href="Pics/2022program.pdf" target="_blank" class="program-link">HERE</a>.</p>
+	<p class="what">To view the 2022 Firefighter Memorial Sunday program, please click <button id="programBtn">HERE</button> </p>
 	<hr>
 	<p class="what">The revised by-law changes are now available on our website. Please click the link above to view. Please contact us if there are any questions.</p>
 		<hr>
@@ -280,6 +280,14 @@
 				e.preventDefault();
 			});
 		});
+
+		const pBtn = document.getElementById('programBtn')
+
+		pBtn.addEventListener('click', programView)
+
+		function programView(){
+			window.open('Pics/2022program.pdf')
+		}
 	</script>
 
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
