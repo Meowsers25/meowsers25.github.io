@@ -1,0 +1,44 @@
+.news{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 110px;
+}
+.news h2{
+    font-size: 50px;
+    padding: 10px;
+    padding-bottom: 40px;
+}
+.news p{
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+}
+.news p.under{
+    border-bottom: 1px solid black;
+}
+.news p.download{
+    padding-bottom: 0;
+}
+.news p.cursive{
+    font-weight: 500;
+    font-style: italic;
+    padding-bottom: 0;
+}
+.btn{
+    font-size: 25px;
+    padding: 3px 10px 3px 10px;
+    margin-right: 3px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgba(93, 73, 84, .7);
+    color: rgba(226,226,226);
+    font-family: 'Raleway', sans-serif;
+}
+.btn:hover{
+    cursor: pointer;
+}
+

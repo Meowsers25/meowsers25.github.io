@@ -1,0 +1,33 @@
+.recent{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+}
+.obits{
+    width: 100%;    
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.recent h2{
+    font-size: 50px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.recent p{
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+}
+.individual{
+    border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.title{
+    font-weight: 500;
+    font-style: italic;
+}

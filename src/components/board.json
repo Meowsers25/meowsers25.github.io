@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "President",
+        "name": "Jonathan Warren"
+    },
+    {
+        "id": 2,
+        "title": "Vice President",
+        "name": "Robert Burgess"
+    },
+    {
+        "id": 3,
+        "title": "Treasurer",
+        "name": "David Didino"
+    },
+    {
+        "id": 4,
+        "title": "Secretary",
+        "name": "William Barrett"
+    },
+    {
+        "id": 5,
+        "name": "David Brouillard"
+    },
+    {
+        "id": 6,
+        "name": "Scott Cute"
+    },
+    {
+        "id": 7,
+        "name": "Christian Lamothe"
+    },
+    {
+        "id": 8,
+        "name": "Michael Procopio"
+    },
+    {
+        "id": 9,
+        "name": "Salvatore Savattere"
+    }
+]

@@ -1,0 +1,39 @@
+.hero{
+    background: url('./images/bwpic.jpg');
+    height: 100vh;
+    position: relative;
+    opacity: .8;
+    border-bottom: 1px solid black;
+}
+.content{
+    position: relative;
+    /* top: 100px; */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.content p{
+    font-size: 60px;
+    padding: .5em;
+    font-weight: bolder;
+    text-shadow: 3px 3px 20px #ff99cc,
+    -2px 1px 30px #ff99cc;
+}
+@media screen and (max-width:940px){
+    .content p{
+        text-align: center;
+    }
+}
+footer{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5d4954;
+}
+footer p{
+    color: rgb(226,226,226);
+    letter-spacing: 2px;;
+}
